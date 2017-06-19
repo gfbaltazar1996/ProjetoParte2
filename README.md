@@ -1,4 +1,4 @@
-# 7 Wonders App (Entrega do Projeto)
+# Barber Cut
 
 **Integrantes: Gabriel Baltazar**<br>
 **Integrantes: Gabriel Claudino**<br>
