@@ -15,3 +15,5 @@ Telas da aplicação:
 * 3 - tela: https://github.com/gfbaltazar1996/ProjetoParte2/blob/master/Prints/Screenshot_2017-05-29-07-27-34%5B1%5D.png
 * 4 - tela: https://github.com/gfbaltazar1996/ProjetoParte2/blob/master/Prints/Screenshot_2017-05-29-07-27-41%5B1%5D.png
 * 5 - tela: https://github.com/gfbaltazar1996/ProjetoParte2/blob/master/Prints/Screenshot_2017-05-29-07-28-02%5B1%5D.png 
+
+*key for installation:123456
