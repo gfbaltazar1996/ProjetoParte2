@@ -6,7 +6,7 @@
 **Orientador: Giuliano Bertoti**
 
 Diagrama de Classe:
-https://github.com/gfbaltazar1996/ProjetoParte2/blob/master/Prints/Screenshot_2017-05-29-07-28-12%5B2%5D.png
+https://github.com/gfbaltazar1996/ProjetoParte2/blob/master/Prints/app%20barbearia.png
 
 Telas da aplicação: 
 
